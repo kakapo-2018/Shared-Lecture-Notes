@@ -1,0 +1,61 @@
+Lecture 6/8/18
+
+Monday, 6 August 2018
+
+2:07 PM
+
+Remind Ross to record his lectures
+
+ 
+
+Subversion is pre git. Mercurial. Different but used for the same thing.
+
+Checking in and checking out information. Pieces of code. Certain people get good at git.
+
+Command line. Browser - done in the browser. 2006 - recently in terms of web history. JavaScript client side. Only language runs in the browser - First class residents in client side is JavaScript.
+
+CSS - messy. HTML very loose language - the language was very unstructured. Focussing predominately for JavaScript. We used them in varying amounts in other languages,
+
+Service side JavaScript. Pioneering JavaScript in service side. Not many people using JavaScript in back-end development. Ruby or C# in the backend.
+
+Node - runtime environment. JavaScript is not a compiled language it's interpreted. Machine code.  V8 and node. Node is the runtime.
+
+Node command in the computer. Run node without arguments.  ES6. Node REPL is a good sandbox environment to play in.
+
+Let  can be used everywhere. Const should be used everywhere. Don't use var. Let is better than var.
+
+Ctrl C is the exit from node.
+
+Npm is the node package manager.  Managing dependencies. Package manager.  Npm is the command that allows you to install the packages.
+
+Yarn. Is a newer version of the same process. Yarn is our item in version management. Touch index.js
+
+Functions are read first. It does a pre-pass. Run the code and see how it works the same.
+
+Git hub Kakapo - clone down the repository. When we get out to the computers - log in with your github Login - browse to URL. You can see all the information. Communicating through a pull request.
+
+We will work in pairs everyday. Until you've paired with everyone in the cohort.
+
+How does someone else approach the problem.
+
+Work in workspace folder. Leave the workspace folder. A good developer is a Lazy developer - as they can find something.
+
+Machine password. Student
+
+Mvclover
+
+Do we want to share notes?
+ 
+Are we able to share notes.
+
+PART II OF LECTURE 3.42 pm
+
+Katas - standard problem sets that we repeat as we move forward. Give you a problem to solve and see if you change your approach - do this without certain elements. Objects and Arrays workspace. Bunch of empty code to fill out. Test suite. Managing risk. Writing tests for the code to see what it does.
+
+Write a test of the code. Coming back to the concept of testing. Write code in the morning and testing in the afternoon. Test driven first code driven second.
+ 
+
+Do in the java script
+
+
+Make array of item and items - want to make the second test only. 

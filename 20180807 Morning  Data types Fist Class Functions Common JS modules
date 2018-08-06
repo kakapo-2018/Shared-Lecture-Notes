@@ -1,0 +1,64 @@
+Lecture Morning 7/818
+
+Tuesday, 7 August 2018
+9:04 AM
+
+Data types 
+
+First Class functions
+
+Common JS modules 
+
+Tools of Titans - Timothy Ferris
+
+Bloggers and influencers. What did they attribute their success. Some form of mindfulness or meditation practice. Treat or manage extreme cases of extreme mental illness. Mindfulness into our foray. Have a try and see how you do stuff. 3minutes of mindfulness. We can increase it faster. 
+
+The idea is 
+
+Roughly how git works - distributed - has enough about that repository - when you clone a repository. You take a copy of the repository. Unless you use the commands - such as push. Move it somewhere else. Git as trees. Ross's branch is separate. Push happens on a local machine. Start at this for Github. When you do a clone you  take the entire repository. Git checkout - creates a branch called ross. When I branch. Github is the origin. Git Remote -v what is related to my git repository in github. Take my code and send it up to the remote repository called origin. Take the ross branch and create it up on the remote repository. 
+
+Git clone of whatever the URL is. Git checkout. -b command. I'm not the author of the branch. Your asking for the branch from a remote source. Will make more sense as we go. Before Git we has this concept of. 
+
+I could clone this repository and clone it to my machine. 
+
+Git me a list of all the git commits that haven't been pulled yet - you are x commits behind whatever. 
+
+Master is the stable code - next to and ahead of it. Everything that they are working on. Merge back into the development. Hardest thing thing is coordinating - wouldn't go back into master. Yes there is an undoe. There aren't levels of commitments. Git is a walking history of the background. Very possible to go back to the commit before I break it. 
+
+All a branch is is a marker. The commands that you have to use are voodoo. There's not one simple command to roll back. 
+
+Zoom lecture. 
+
+Yesterday we talked about node. Today we are talking about JS. Data types -first class functions. Common JS modules - separate files separate. Laying out code in separate files. Structure is important. We put a premium on laying out our code in a way that is easy to follow. 
+
+Data types in JavaScript. It doesn't have doubles. Most programming languages do.
+
+JavaScript only has one number type. Undefined is one type of a thing. CI writing Web app. In an object the order doesn't matter because the key is defined. In an array it doesn't. 
+
+Data structures. How we take big pieces of data and hold them together. Null is the absence of an object. 
+
+Value of the object is null. Empty object. 2 parts of your memory. Variables sit in one place and point at the data. 
+
+First class function. 
+
+Function can be the destination of a variables pointer. Let obj function. When I need to use the function I add parentheses.
+
+Because the function is first class. 
+
+A function that is inside of a variable. 
+4 types of functions 
+
+Named function read and saved into the name space. - Put the code into the code repo for us.  
+
+Common JS Modules
+
+Functions file functions.js
+Code file code.js
+
+Tidy way of seperating the functions from the execution. Encapsulation. Best practices . 
+
+Using require. (./'functions'
+
+The  file that wants to do it . Module.exports = sayHello
+
+Sandy Mets - effiecient code 

@@ -1,0 +1,33 @@
+First lecture with Harrison
+
+Introduce new lecture in the morning and test in the morning. 
+
+Filter is keep or remove 
+
+Map is the whole array transformed. Fat arrow functions. Fat arrow functions  - use it in phase 4. Possibly go back to the right point. 
+
+JSON - dependencies.  Jest? Jest is a testing software - its put into your application so I can run tests. Test files - they need jest to run the test on the program. 
+
+It indicates that it needs certain things - what is it what does it need? 
+
+Package JSON is a meta- information. Npm and yarn will run the 
+
+Node is the engine, yarn is the steering wheel. NPM - node package manager. 
+
+Node runs code - developer writes code. 
+
+Every single website that has a server and database - core functionality bits of programming - it would take ages - complex elements stuff. 
+
+A packages is built by someone. Get a server running - configuration. Packages. NPM is a collection of packages. Jest is a package. You don't run code 
+
+XX -commercial premium?
+
+Module someone else did the work for me. Yarn Add colors - add colors. You have installed javascript object notation. Current version of the javascript - strictly would only look for version 1.1.3. 
+
+Yarn init - we are going to managing yarn init -y 
+
+Use other peoples code - redux express - mostly stealing other peoples code/. 
+
+.gitignore 
+
+Dependencies - will it go back to an archived version. 

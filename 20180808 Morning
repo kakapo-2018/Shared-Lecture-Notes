@@ -1,0 +1,38 @@
+Lecture Morning 8/6/18
+
+Wednesday, 8 August 2018
+9:03 AM
+
+DATA STRUCTURES | TESTING WITH JEST | HANDBOOK 
+
+Package JSON. Expand into data structures. Primitive data types and complex data types. Strings - they are primitive data types. A string is a collection of characters, Primitive data types are the primary building blocks. Char unit. We want to understand how things are broken down. Decimal places for a float. Floating point arithmetic. Reshaping our thinking in different ways.  We use them to model the real world. It exists in the real world. 
+
+JSON.package Java Script Object Notation. API's Live and breath JSON - links most systems. Application Programming Interface. When engage with a graphical user interface - optic nerve - see things and engage with them that way. Don't need to communicate visually. Usually text based. Low level where performance matters. 
+
+"double quotes" - are the currency of JSON. No comma's at the end. 
+
+Code smells - data is difficult to engage with. Single responsibility. Get a function to just one thing. Code is written once and needs to be understood - help the next person. Not going to thank you past self. Pulling things out into the function. 
+
+Being clever and tricky - code that explains itself - how well does it respond to change - how easily can it be changed. How user friendly is the code? 
+
+Testing.  Touch test.js - Jest. 
+
+Takes a higher order function as an argument. 
+
+Testing Arrange What data does it need
+
+Simple test - how many address lines have we got. 
+
+
+ - Act - Assert
+
+Assert is check this is true. 
+
+Might you write the code performance based on the test? 
+
+
+Arrange  what do you expect 
+
+Act let actual be = function 
+
+Arrange Act Assert

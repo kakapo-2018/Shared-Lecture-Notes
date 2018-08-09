@@ -1,0 +1,43 @@
+Lecture Morning 9/8/18
+
+Thursday, 9 August 2018
+9:04 AM
+
+Bowling lecture. When everything is together. 
+
+If double strike 
+If triple strike 
+
+How to start - getting lost in the theory rather than the actual theory. No real right answer - Bunch of bad ways to do stuff. We have a bunch of ways. Ugly code that works trumps clean code that doesn't.
+
+Complex problem - simplifying problem. Our job is to make simple things easy and complex problems possible. 
+
+One is 
+How to make your code easier to work with and the other is test driven development. 
+
+Today there are two exercises. We can stay on bowling for most of today if you want to,
+
+Boiler plate is what we pick u.
+
+Groking - how quickly can you look at something as understanding. Maps, filters and finds but are slow to understand. 
+
+Don't prefactor code first. 
+
+You can but 
+
+Ctrl D - select the copy of it in the code
+
+Complexity of the code -it tells what it is out. 
+
+Solving the problem - first point - how will I know that I am right. 
+
+TDD in general.  
+
+Ping pong testing - our jobs is to mess with the test suite - function filter odds 
+
+Module.export 
+
+% divide
+
+
+Write the test. Score different frames. 
